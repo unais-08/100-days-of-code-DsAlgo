@@ -1,0 +1,32 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+
+# C++ cache files
+*.gch
+*.pch
+
+# Debug files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Build directories
+/build/
+/bin/
+/obj/
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
