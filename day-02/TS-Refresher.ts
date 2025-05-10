@@ -87,3 +87,9 @@ function getPersonDetail(person: PersonDetails): PersonDetails {
 
 const d = getPersonDetail({ age: 30, name: "John Doe" });
 console.log(d);
+
+const companies = ["google", "facebook", "apple", "microsoft"];
+const comp = companies.map((item) => {
+  return item;
+});
+console.log(comp);
